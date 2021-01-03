@@ -1,0 +1,19 @@
+.todo-list {
+  background-color: cornsilk;
+  background-size: contain; 
+  text-align: center;
+  color: black ;
+  display: flex;
+  flex-direction: column;
+ }
+
+.todo-item {
+  background-color: olive;
+  border: 1px solid rgb(151, 140, 140);
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-size: medium;
+  font-family: sans-serif; 
+}
+
