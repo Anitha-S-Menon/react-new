@@ -31,7 +31,7 @@ const todosData=[
     },
     {
         id :7,
-        text :"Watch a movie",
+        text :"Join dance classes",
         completed:true
     }
 
